@@ -14,8 +14,9 @@ Some old and useless electronic junk
 
 ##  许可证 License
 
-- 文档内容使用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- 代码（若有）将采用 MIT License
+- 所有源代码文件采用 [GNU GPL v3](LICENSE) 授权。
+- 所有文档与图像采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 授权。
+
 
 ## 项目结构
 
