@@ -32,18 +32,18 @@
 * 拆机检查，内置打印机是精工STP411L-640
 ![1000113536](https://github.com/user-attachments/assets/f8712964-56e7-432f-bb83-df5fe7ec7d7e)
 ![1000113535](https://github.com/user-attachments/assets/d48a480e-7da5-4f3d-af56-33c463960b96)
-* 示波器有两种精工打印机配置选项。
+* 示波器有两种精工打印机配置选项，DPU-411L和DPU 412
 * ![1000113552](https://github.com/user-attachments/assets/7feeb1ce-a8de-4359-9bfc-46964b5ea093)
 ![1000113554](https://github.com/user-attachments/assets/c41b8572-30a9-4b5c-966b-9d0dd2d1a654)
 ![1000113553](https://github.com/user-attachments/assets/e64f2a76-a859-4ef7-9600-c00c9370c953)
 
-## 7. 尝试第一种打印机配置
+## 7. 尝试DPU-411l打印机配置
 
-* 选择第一种精工打印机配置，打印输出乱码，表明打印方向正确但配置不完全匹配。
+* 选择第一种精工打印机DPU-411l配置，打印输出乱码，表明打印方向正确但配置不完全匹配。
 
-## 8. 选择第二种配置成功打印
+## 8. 选择第二种DPU 412配置成功打印
 
-* 选择第二种打印机配置后，打印正常，配置成功。
+* 选择第二种打印机DPU 412配置后，打印正常，配置成功。
 
 ---
 
